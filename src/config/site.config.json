@@ -1,113 +1,208 @@
 {
   "theme": {
-    "brand": "#8A6D5B",
-    "brandDark": "#5F4A3C",
-    "accent": "#C9A25A"
+    "brand": "#FFC0CB",
+    "brandDark": "#B76E79",
+    "accent": "#2F2F2F"
   },
   "business": {
-    "name": "Bella & Zen",
+    "name": "Barbería López",
     "tagline": {
-      "es": "Peluquería y bienestar en el corazón de la ciudad",
-      "en": "Hair & wellness in the heart of the city"
+      "es": "Tradición y estilo en cada corte",
+      "en": "Tradition and style in every cut"
     }
   },
   "contact": {
-    "phone": "600 123 456",
-    "phoneRaw": "+34600123456",
-    "whatsapp": "34600123456",
-    "email": "hola@bellazen.es",
-    "address": "Calle Alcalá 45, 28014 Madrid",
-    "mapEmbed": "https://www.google.com/maps?q=Calle+Alcala+45+Madrid&output=embed"
+    "phone": "600 987 654",
+    "phoneRaw": "+34600987654",
+    "whatsapp": "34600987654",
+    "email": "hola@barberialopez.es",
+    "address": "Calle Sierpes 20, 41004 Sevilla",
+    "mapEmbed": "https://www.google.com/maps?q=Calle%20Sierpes%2020%2C%2041004%20Sevilla&output=embed"
   },
   "hero": {
     "title": {
-      "es": "Cuídate. Te lo mereces.",
-      "en": "Take care of yourself. You deserve it."
+      "es": "Barbería López – Estilo clásico en el corazón de Sevilla",
+      "en": "Barbería López – Classic style in the heart of Seville"
     },
     "subtitle": {
-      "es": "Peluquería, estética y masajes con cita previa. Reserva por WhatsApp en un minuto.",
-      "en": "Hair, beauty and massage by appointment. Book on WhatsApp in a minute."
+      "es": "20 años cuidando la imagen de nuestros clientes con dedicación, tradición y buen oficio",
+      "en": "20 years taking care of our clients' image with dedication, tradition and craftsmanship"
     },
-    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
+    "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=1600&q=80"
   },
   "about": {
-    "heading": { "es": "Sobre nosotros", "en": "About us" },
+    "heading": {
+      "es": "Nuestra historia",
+      "en": "Our story"
+    },
     "paragraphs": [
       {
-        "es": "Somos un equipo de profesionales apasionados por el cuidado personal. Llevamos más de diez años ayudando a nuestros clientes a verse y sentirse mejor.",
-        "en": "We are a team of professionals passionate about personal care. For over ten years we have helped our clients look and feel their best."
+        "es": "Desde hace más de 20 años, Barbería López es un referente en Sevilla para quienes buscan un corte cuidado y un trato cercano. Lo que empezó como un pequeño negocio familiar se ha convertido en un punto de encuentro donde varias generaciones han pasado por nuestro sillón.",
+        "en": "For more than 20 years, Barbería López has been a benchmark in Seville for those looking for a careful cut and a warm welcome. What started as a small family business has become a meeting point where several generations have sat in our chair."
       },
       {
-        "es": "En un espacio tranquilo y cuidado, combinamos técnicas de peluquería, estética y masaje para que salgas renovado en cada visita.",
-        "en": "In a calm, welcoming space we combine hair, beauty and massage techniques so you leave refreshed after every visit."
+        "es": "Combinamos técnicas clásicas de barbería con las últimas tendencias, siempre con navaja, tijera y mucha paciencia. Aquí no solo te cortamos el pelo, te ofrecemos un rato de conversación, café y buen ambiente.",
+        "en": "We combine classic barbering techniques with the latest trends, always with razor, scissors and plenty of patience. Here we don't just cut your hair, we offer you good conversation, coffee and a great atmosphere."
       }
     ],
-    "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=900&q=80"
+    "image": "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&w=1200&q=80"
   },
   "services": {
-    "heading": { "es": "Servicios y precios", "en": "Services & prices" },
+    "heading": {
+      "es": "Nuestros servicios",
+      "en": "Our services"
+    },
     "intro": {
-      "es": "Elige lo que necesitas. Todos los servicios son con cita previa.",
-      "en": "Choose what you need. All services are by appointment."
+      "es": "Cortes clásicos y modernos, cuidado de barba y afeitados tradicionales para que salgas de nuestra barbería como nuevo.",
+      "en": "Classic and modern cuts, beard care and traditional shaves so you leave our barbershop looking brand new."
     },
     "categories": [
       {
-        "name": { "es": "Peluquería", "en": "Hair" },
+        "name": {
+          "es": "Corte",
+          "en": "Haircut"
+        },
         "items": [
-          { "name": { "es": "Corte y peinado", "en": "Cut & style" }, "desc": { "es": "Lavado, corte y acabado.", "en": "Wash, cut and finish." }, "price": "25 €", "duration": "45 min" },
-          { "name": { "es": "Color", "en": "Color" }, "desc": { "es": "Tinte completo con productos de cuidado.", "en": "Full color with care products." }, "price": "desde 40 €", "duration": "1 h 30" },
-          { "name": { "es": "Mechas / balayage", "en": "Highlights / balayage" }, "desc": { "es": "Técnica personalizada según tu tono.", "en": "Custom technique for your tone." }, "price": "desde 55 €", "duration": "2 h" },
-          { "name": { "es": "Recogido / peinado evento", "en": "Updo / event styling" }, "price": "35 €", "duration": "1 h" }
+          {
+            "name": {
+              "es": "Corte de pelo",
+              "en": "Haircut"
+            },
+            "desc": {
+              "es": "Corte a medida adaptado a tu estilo, con acabado profesional.",
+              "en": "Tailored haircut adapted to your style, with a professional finish."
+            },
+            "price": "15 €",
+            "duration": "30 min"
+          },
+          {
+            "name": {
+              "es": "Corte + barba",
+              "en": "Haircut + beard"
+            },
+            "desc": {
+              "es": "El combo completo: corte de pelo y arreglo de barba a juego.",
+              "en": "The complete combo: haircut and matching beard trim."
+            },
+            "price": "22 €",
+            "duration": "45 min"
+          }
         ]
       },
       {
-        "name": { "es": "Masajes y bienestar", "en": "Massage & wellness" },
+        "name": {
+          "es": "Barba",
+          "en": "Beard"
+        },
         "items": [
-          { "name": { "es": "Masaje relajante", "en": "Relaxing massage" }, "desc": { "es": "Cuerpo completo, presión suave.", "en": "Full body, gentle pressure." }, "price": "40 €", "duration": "60 min" },
-          { "name": { "es": "Masaje descontracturante", "en": "Deep tissue massage" }, "desc": { "es": "Enfocado en zonas de tensión.", "en": "Focused on tension areas." }, "price": "50 €", "duration": "60 min" },
-          { "name": { "es": "Masaje exprés", "en": "Express massage" }, "desc": { "es": "Espalda y cervicales.", "en": "Back and neck." }, "price": "25 €", "duration": "30 min" }
-        ]
-      },
-      {
-        "name": { "es": "Estética", "en": "Beauty" },
-        "items": [
-          { "name": { "es": "Manicura", "en": "Manicure" }, "price": "18 €", "duration": "45 min" },
-          { "name": { "es": "Pedicura", "en": "Pedicure" }, "price": "22 €", "duration": "50 min" },
-          { "name": { "es": "Diseño de cejas", "en": "Eyebrow shaping" }, "price": "12 €", "duration": "20 min" }
+          {
+            "name": {
+              "es": "Arreglo de barba",
+              "en": "Beard trim"
+            },
+            "desc": {
+              "es": "Perfilado y arreglo de barba con máquina y tijera.",
+              "en": "Beard shaping and trim with clipper and scissors."
+            },
+            "price": "10 €",
+            "duration": "20 min"
+          },
+          {
+            "name": {
+              "es": "Afeitado tradicional",
+              "en": "Traditional shave"
+            },
+            "desc": {
+              "es": "Afeitado con navaja, toalla caliente y productos de cortesía, al más puro estilo clásico.",
+              "en": "Razor shave with hot towel and complimentary products, in the purest classic style."
+            },
+            "price": "18 €",
+            "duration": "30 min"
+          }
         ]
       }
     ]
   },
   "gallery": {
-    "heading": { "es": "Nuestro espacio", "en": "Our space" },
+    "heading": {
+      "es": "Galería",
+      "en": "Gallery"
+    },
     "images": [
-      "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?w=600&q=80",
-      "https://images.unsplash.com/photo-1600948836101-f9ffda59d250?w=600&q=80",
-      "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?w=600&q=80",
-      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=600&q=80"
+      "https://images.unsplash.com/photo-1512690459411-b9245aed614b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1521490878577-2f2b2f3ce6f5?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1493256338651-d82f7acb2b38?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519415510236-718bdfcd89c1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1596178060671-7a80dc8059ea?auto=format&fit=crop&w=1200&q=80"
     ]
   },
   "testimonials": {
-    "heading": { "es": "Lo que dicen nuestros clientes", "en": "What our clients say" },
+    "heading": {
+      "es": "Lo que dicen nuestros clientes",
+      "en": "What our clients say"
+    },
     "items": [
-      { "text": { "es": "El mejor sitio para desconectar. Salgo como nueva cada vez.", "en": "The best place to switch off. I leave feeling brand new every time." }, "name": "Laura M.", "meta": "Madrid" },
-      { "text": { "es": "Profesionales y muy atentos. El masaje descontracturante es una maravilla.", "en": "Professional and attentive. The deep tissue massage is wonderful." }, "name": "Carlos R.", "meta": "Madrid" },
-      { "text": { "es": "Me encanta cómo me dejan el pelo. Reservar por WhatsApp es súper cómodo.", "en": "I love how they do my hair. Booking on WhatsApp is so convenient." }, "name": "Nuria P.", "meta": "Madrid" }
+      {
+        "text": {
+          "es": "Llevo años viniendo a Barbería López y nunca me han fallado. El trato es cercano y el corte siempre queda perfecto.",
+          "en": "I've been coming to Barbería López for years and they've never let me down. The service is warm and the cut always turns out perfect."
+        },
+        "name": "Antonio R.",
+        "meta": "Cliente habitual, Sevilla"
+      },
+      {
+        "text": {
+          "es": "El afeitado tradicional es una experiencia aparte. Salgo siempre relajado y con la piel perfecta.",
+          "en": "The traditional shave is an experience on its own. I always leave relaxed with perfect skin."
+        },
+        "name": "Javier M.",
+        "meta": "Cliente desde 2019"
+      },
+      {
+        "text": {
+          "es": "Descubrí esta barbería recién llegado a Sevilla y ya no voy a otro sitio. Ambiente auténtico y profesionales de verdad.",
+          "en": "I discovered this barbershop right after moving to Seville and I haven't gone anywhere else since. Authentic atmosphere and real professionals."
+        },
+        "name": "Carlos F.",
+        "meta": "Cliente, barrio Santa Cruz"
+      }
     ]
   },
   "hours": {
-    "heading": { "es": "Horario", "en": "Opening hours" },
+    "heading": {
+      "es": "Horario",
+      "en": "Opening hours"
+    },
     "rows": [
-      { "day": { "es": "Lunes – Viernes", "en": "Monday – Friday" }, "time": "10:00 – 20:00" },
-      { "day": { "es": "Sábado", "en": "Saturday" }, "time": "10:00 – 14:00" },
-      { "day": { "es": "Domingo", "en": "Sunday" }, "time": "Cerrado / Closed" }
+      {
+        "day": {
+          "es": "Lunes a viernes",
+          "en": "Monday to Friday"
+        },
+        "time": "10:00 - 14:00 / 17:00 - 20:30"
+      },
+      {
+        "day": {
+          "es": "Sábado",
+          "en": "Saturday"
+        },
+        "time": "10:00 - 14:00"
+      },
+      {
+        "day": {
+          "es": "Domingo",
+          "en": "Sunday"
+        },
+        "time": "Cerrado"
+      }
     ]
   },
   "seo": {
-    "title": "Bella & Zen — Peluquería y masajes en Madrid",
+    "title": "Barbería López – Barbería clásica en Sevilla",
     "description": {
-      "es": "Peluquería, estética y masajes con cita previa en Madrid. Reserva fácil por WhatsApp.",
-      "en": "Hair, beauty and massage by appointment in Madrid. Easy booking on WhatsApp."
+      "es": "Barbería López, en Calle Sierpes, Sevilla. 20 años de experiencia en cortes de pelo, arreglo de barba y afeitado tradicional. Reserva tu cita.",
+      "en": "Barbería López, on Calle Sierpes, Seville. 20 years of experience in haircuts, beard trims and traditional shaves. Book your appointment."
     }
   }
 }
