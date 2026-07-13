@@ -1,0 +1,113 @@
+{
+  "theme": {
+    "brand": "#8A6D5B",
+    "brandDark": "#5F4A3C",
+    "accent": "#C9A25A"
+  },
+  "business": {
+    "name": "Bella & Zen",
+    "tagline": {
+      "es": "Peluquería y bienestar en el corazón de la ciudad",
+      "en": "Hair & wellness in the heart of the city"
+    }
+  },
+  "contact": {
+    "phone": "600 123 456",
+    "phoneRaw": "+34600123456",
+    "whatsapp": "34600123456",
+    "email": "hola@bellazen.es",
+    "address": "Calle Alcalá 45, 28014 Madrid",
+    "mapEmbed": "https://www.google.com/maps?q=Calle+Alcala+45+Madrid&output=embed"
+  },
+  "hero": {
+    "title": {
+      "es": "Cuídate. Te lo mereces.",
+      "en": "Take care of yourself. You deserve it."
+    },
+    "subtitle": {
+      "es": "Peluquería, estética y masajes con cita previa. Reserva por WhatsApp en un minuto.",
+      "en": "Hair, beauty and massage by appointment. Book on WhatsApp in a minute."
+    },
+    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
+  },
+  "about": {
+    "heading": { "es": "Sobre nosotros", "en": "About us" },
+    "paragraphs": [
+      {
+        "es": "Somos un equipo de profesionales apasionados por el cuidado personal. Llevamos más de diez años ayudando a nuestros clientes a verse y sentirse mejor.",
+        "en": "We are a team of professionals passionate about personal care. For over ten years we have helped our clients look and feel their best."
+      },
+      {
+        "es": "En un espacio tranquilo y cuidado, combinamos técnicas de peluquería, estética y masaje para que salgas renovado en cada visita.",
+        "en": "In a calm, welcoming space we combine hair, beauty and massage techniques so you leave refreshed after every visit."
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=900&q=80"
+  },
+  "services": {
+    "heading": { "es": "Servicios y precios", "en": "Services & prices" },
+    "intro": {
+      "es": "Elige lo que necesitas. Todos los servicios son con cita previa.",
+      "en": "Choose what you need. All services are by appointment."
+    },
+    "categories": [
+      {
+        "name": { "es": "Peluquería", "en": "Hair" },
+        "items": [
+          { "name": { "es": "Corte y peinado", "en": "Cut & style" }, "desc": { "es": "Lavado, corte y acabado.", "en": "Wash, cut and finish." }, "price": "25 €", "duration": "45 min" },
+          { "name": { "es": "Color", "en": "Color" }, "desc": { "es": "Tinte completo con productos de cuidado.", "en": "Full color with care products." }, "price": "desde 40 €", "duration": "1 h 30" },
+          { "name": { "es": "Mechas / balayage", "en": "Highlights / balayage" }, "desc": { "es": "Técnica personalizada según tu tono.", "en": "Custom technique for your tone." }, "price": "desde 55 €", "duration": "2 h" },
+          { "name": { "es": "Recogido / peinado evento", "en": "Updo / event styling" }, "price": "35 €", "duration": "1 h" }
+        ]
+      },
+      {
+        "name": { "es": "Masajes y bienestar", "en": "Massage & wellness" },
+        "items": [
+          { "name": { "es": "Masaje relajante", "en": "Relaxing massage" }, "desc": { "es": "Cuerpo completo, presión suave.", "en": "Full body, gentle pressure." }, "price": "40 €", "duration": "60 min" },
+          { "name": { "es": "Masaje descontracturante", "en": "Deep tissue massage" }, "desc": { "es": "Enfocado en zonas de tensión.", "en": "Focused on tension areas." }, "price": "50 €", "duration": "60 min" },
+          { "name": { "es": "Masaje exprés", "en": "Express massage" }, "desc": { "es": "Espalda y cervicales.", "en": "Back and neck." }, "price": "25 €", "duration": "30 min" }
+        ]
+      },
+      {
+        "name": { "es": "Estética", "en": "Beauty" },
+        "items": [
+          { "name": { "es": "Manicura", "en": "Manicure" }, "price": "18 €", "duration": "45 min" },
+          { "name": { "es": "Pedicura", "en": "Pedicure" }, "price": "22 €", "duration": "50 min" },
+          { "name": { "es": "Diseño de cejas", "en": "Eyebrow shaping" }, "price": "12 €", "duration": "20 min" }
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "heading": { "es": "Nuestro espacio", "en": "Our space" },
+    "images": [
+      "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?w=600&q=80",
+      "https://images.unsplash.com/photo-1600948836101-f9ffda59d250?w=600&q=80",
+      "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?w=600&q=80",
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=600&q=80"
+    ]
+  },
+  "testimonials": {
+    "heading": { "es": "Lo que dicen nuestros clientes", "en": "What our clients say" },
+    "items": [
+      { "text": { "es": "El mejor sitio para desconectar. Salgo como nueva cada vez.", "en": "The best place to switch off. I leave feeling brand new every time." }, "name": "Laura M.", "meta": "Madrid" },
+      { "text": { "es": "Profesionales y muy atentos. El masaje descontracturante es una maravilla.", "en": "Professional and attentive. The deep tissue massage is wonderful." }, "name": "Carlos R.", "meta": "Madrid" },
+      { "text": { "es": "Me encanta cómo me dejan el pelo. Reservar por WhatsApp es súper cómodo.", "en": "I love how they do my hair. Booking on WhatsApp is so convenient." }, "name": "Nuria P.", "meta": "Madrid" }
+    ]
+  },
+  "hours": {
+    "heading": { "es": "Horario", "en": "Opening hours" },
+    "rows": [
+      { "day": { "es": "Lunes – Viernes", "en": "Monday – Friday" }, "time": "10:00 – 20:00" },
+      { "day": { "es": "Sábado", "en": "Saturday" }, "time": "10:00 – 14:00" },
+      { "day": { "es": "Domingo", "en": "Sunday" }, "time": "Cerrado / Closed" }
+    ]
+  },
+  "seo": {
+    "title": "Bella & Zen — Peluquería y masajes en Madrid",
+    "description": {
+      "es": "Peluquería, estética y masajes con cita previa en Madrid. Reserva fácil por WhatsApp.",
+      "en": "Hair, beauty and massage by appointment in Madrid. Easy booking on WhatsApp."
+    }
+  }
+}
